@@ -29,7 +29,7 @@ print(f"Hallo mijn naam is {naam}")
 game = "counter strike"
 hours_played = 1800
 score = 8.5
- print(f"Mijn favoriete game is {game}")
+print(f"Mijn favoriete game is {game}")
 print(f"Ik heb deze game {hours_played} uur gespeeld")
 print(f"Ik geef deze game een {score}")
 
@@ -57,7 +57,7 @@ health = 100
 level = 1   
 damage = 5
 print(f"Mijn character heet {name}, heeft {health} health, is level {level} en doet {damage} damage")
- health = health - 20
+health = health - 20
 
 
 # Oefening 7
